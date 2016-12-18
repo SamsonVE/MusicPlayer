@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Branden",
+    "artist": "Lèlèman & Sosa",
+    "genre": "Trip-Trap",
+    "src": "src/audio/01 Laat Het Branden.mp3"
+
+    }, {
+    "title": "Blaze Up",
+    "artist": "Lèlèman & Sosa",
+    "genre": "Rap",
+    "src": "src/audio/02 Blaze Up.mp3"
+
+    }, {
+    "title": "Verder",
+    "artist": "Lèlèman",
+    "genre": "Hip-Hop",
+    "src": "src/audio/03 Verder.mp3"
+
+    }, {
+    "title": "Trippen",
+    "artist": "Lèlèman & Sosa",
+    "genre": "Trap",
+    "src": "src/audio/04 Nu Begin je te Trippen.mp3"
+
+    }, {
+    "title": "Geen Tijd",
+    "artist": "Lèlèman & Sosa",
+    "genre": "Hip-Hop",
+    "src": "src/audio/05 Geen Tijd.mp3"
+
+  }, {
+  "title": "Eigen Pad",
+  "artist": "Sosa",
+  "genre": "Trap",
+  "src": "src/audio/06 Eigen Pad.mp3"
+
+  }
+]

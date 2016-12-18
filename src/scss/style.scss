@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Nova+Script');
+//@import "bar-ui";
+body{
+  background-color: grey;
+
+  font-family: 'Nova Script', cursive;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  h1{
+    text-align: center;
+  }
+  #main {
+    flex: 1 0 auto;
+  }
+
+  .mainpage {
+    margin-top: 0;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .music{
+    height: 300px;
+    .card-content{
+      font-size: 0.9em;
+    }
+  }
+  footer.page-footer {
+  padding-top: 0;
+  }
+  .sm2-bar-ui {
+ font-size: 16px;
+}
+.sm2-bar-ui .sm2-main-controls,
+.sm2-bar-ui .sm2-playlist-drawer {
+ background-color: #2288cc;
+}
+.sm2-bar-ui .sm2-inline-texture {
+ background: transparent;
+}
+}
