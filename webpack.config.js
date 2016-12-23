@@ -17,6 +17,10 @@ module.exports = {
                   query: {
                     presets: ['es2015']
                   }
+                },
+                {
+                test: /\.(eot|svg|ttf|woff|woff2)$/,
+                loader: 'file?name=./fonts/[name].[ext]'
                 }
             ]
         }

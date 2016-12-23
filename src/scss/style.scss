@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Nova+Script');
 //@import "bar-ui";
+//@import "materialize";
+// @import "~materialize-css/sass/materialize";
 body{
   background-color: grey;
 
@@ -16,15 +18,13 @@ body{
 
   .mainpage {
     margin-top: 0;
-    padding-top: 1px;
-    padding-bottom: 25px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 25px 50px;
   }
   .music{
-    height: 300px;
+
     .card-content{
       font-size: 0.9em;
+      padding: 15px;
     }
   }
   footer.page-footer {
@@ -40,4 +40,11 @@ body{
 .sm2-bar-ui .sm2-inline-texture {
  background: transparent;
 }
+// @media #{$medium-and-down} {
+//     // styles for medium screens and down
+//     .music{
+//       height: 250px;
+//
+//     }
+//   }
 }

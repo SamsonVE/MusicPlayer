@@ -1,18 +1,30 @@
 [
   {
-    "title": "Branden",
+    "title": "Branden Ft. JD & KOLLIN",
     "artist": "Lèlèman & Sosa",
     "genre": "Trip-Trap",
     "src": "src/audio/01 Laat Het Branden.mp3"
 
     }, {
-    "title": "Blaze Up",
+    "title": "Blaze Up Ft. Dess Finesse",
     "artist": "Lèlèman & Sosa",
     "genre": "Rap",
+    "lyrics": {
+      "text": "Een bombaclat dat geef ik niet",
+      "text": "Elke dag ik blaze die weed",
+      "text": "En als ik munchie’s heb stel",
+      "text": "ik die ribs asap bij tel aviv",
+      "text": "en ik ben niet je stereotype drogadicto",
+      "text": "Of toch wel want ik vind droga figo",
+      "text": "Ik zeg bol ieks en rook wat",
+      "text": "Was het smoken van cheiba maar een vak dat ik op school had",
+      "text": "Ik zeg bol ieks en rook wat",
+      "text": "Je ziet dat ik stoned ben heb rode bollen in me oogkast"
+    },
     "src": "src/audio/02 Blaze Up.mp3"
 
     }, {
-    "title": "Verder",
+    "title": "Verder Ft. JD",
     "artist": "Lèlèman",
     "genre": "Hip-Hop",
     "src": "src/audio/03 Verder.mp3"
@@ -24,7 +36,7 @@
     "src": "src/audio/04 Nu Begin je te Trippen.mp3"
 
     }, {
-    "title": "Geen Tijd",
+    "title": "Geen Tijd Ft. JD",
     "artist": "Lèlèman & Sosa",
     "genre": "Hip-Hop",
     "src": "src/audio/05 Geen Tijd.mp3"

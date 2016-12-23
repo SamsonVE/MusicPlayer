@@ -17,7 +17,8 @@ require('../scss/style.scss');
   {
     setGlobalVariables();
     let songsCollection = new Songs();
-    new SongView({el: ".sm2-playlist-bd", collection: songsCollection});
+    new SongView({el: "#sm2-container", collection: songsCollection});
+    new PlayerView({el: ".sm2-playlist-bd", collection: songsCollection});
     //new PlayerView({el: "#footer"});
   };
 
